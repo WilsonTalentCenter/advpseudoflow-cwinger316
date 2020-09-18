@@ -1,1 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2020-09-18T15:48:01.024Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" version="13.7.3" etag="PfcBdQTmP4ZIMN-HHsvZ" type="github"><diagram id="d-2VzB2SfFw2CS1T4vUZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-18T16:23:04.124Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="NcZvY92COW9nmcGrEnA2" version="13.7.3" type="github">
+  <diagram id="d-2VzB2SfFw2CS1T4vUZ" name="Page-1">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RG3sBn3x0QnMlMXYGg9k-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RG3sBn3x0QnMlMXYGg9k-1" target="RG3sBn3x0QnMlMXYGg9k-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RG3sBn3x0QnMlMXYGg9k-1" value="&lt;font color=&quot;#000000&quot;&gt;start&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="260" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RG3sBn3x0QnMlMXYGg9k-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RG3sBn3x0QnMlMXYGg9k-2" target="RG3sBn3x0QnMlMXYGg9k-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RG3sBn3x0QnMlMXYGg9k-2" value="&lt;font color=&quot;#000000&quot;&gt;enter starting&amp;nbsp; balance in &lt;br&gt;dollars&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="260" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RG3sBn3x0QnMlMXYGg9k-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RG3sBn3x0QnMlMXYGg9k-8" target="RG3sBn3x0QnMlMXYGg9k-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RG3sBn3x0QnMlMXYGg9k-8" value="&lt;font color=&quot;#000000&quot;&gt;enter yearly contribution in &lt;br&gt;dollars&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontColor=#ffffff;strokeColor=#3700CC;fillColor=#6a00ff;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="260" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RG3sBn3x0QnMlMXYGg9k-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RG3sBn3x0QnMlMXYGg9k-10" target="RG3sBn3x0QnMlMXYGg9k-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RG3sBn3x0QnMlMXYGg9k-10" value="&lt;font color=&quot;#000000&quot;&gt;enter average &lt;br&gt;return on&lt;br&gt;&amp;nbsp;investment as&lt;br&gt;&amp;nbsp;%&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontColor=#ffffff;strokeColor=#3700CC;fillColor=#6a00ff;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="260" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RG3sBn3x0QnMlMXYGg9k-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RG3sBn3x0QnMlMXYGg9k-12" target="RG3sBn3x0QnMlMXYGg9k-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RG3sBn3x0QnMlMXYGg9k-12" value="&lt;font color=&quot;#000000&quot;&gt;enter number &lt;br&gt;of years&lt;br&gt;&amp;nbsp;on the report&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontColor=#ffffff;strokeColor=#3700CC;fillColor=#6a00ff;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="260" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RG3sBn3x0QnMlMXYGg9k-20" value="&lt;font color=&quot;#000000&quot;&gt;end task&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontColor=#ffffff;strokeColor=#3700CC;fillColor=#6a00ff;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RG3sBn3x0QnMlMXYGg9k-22" value="arvard" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="460" y="135" width="380" height="830" as="geometry" />
+        </mxCell>
+        <mxCell id="RG3sBn3x0QnMlMXYGg9k-25" value="me flowchart be working" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="640" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RG3sBn3x0QnMlMXYGg9k-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RG3sBn3x0QnMlMXYGg9k-26" target="RG3sBn3x0QnMlMXYGg9k-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RG3sBn3x0QnMlMXYGg9k-26" value="print balance" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontColor=#ffffff;strokeColor=#3700CC;fillColor=#6a00ff;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="260" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RG3sBn3x0QnMlMXYGg9k-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RG3sBn3x0QnMlMXYGg9k-31" target="RG3sBn3x0QnMlMXYGg9k-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RG3sBn3x0QnMlMXYGg9k-31" value="calculate next year ballance&lt;br&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;ballance + (yc * roi *years)&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontColor=#ffffff;strokeColor=#3700CC;fillColor=#6a00ff;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="260" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RG3sBn3x0QnMlMXYGg9k-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RG3sBn3x0QnMlMXYGg9k-33" target="RG3sBn3x0QnMlMXYGg9k-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RG3sBn3x0QnMlMXYGg9k-33" value="print balance" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontColor=#ffffff;strokeColor=#3700CC;fillColor=#6a00ff;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RG3sBn3x0QnMlMXYGg9k-37" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RG3sBn3x0QnMlMXYGg9k-35" target="RG3sBn3x0QnMlMXYGg9k-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RG3sBn3x0QnMlMXYGg9k-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="RG3sBn3x0QnMlMXYGg9k-35" target="RG3sBn3x0QnMlMXYGg9k-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="1280" />
+              <mxPoint x="530" y="985" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RG3sBn3x0QnMlMXYGg9k-39" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RG3sBn3x0QnMlMXYGg9k-38">
+          <mxGeometry x="-0.2332" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RG3sBn3x0QnMlMXYGg9k-35" value="have printed balance&lt;br&gt;&amp;nbsp;years +1 times?" style="rhombus;whiteSpace=wrap;html=1;fontColor=#ffffff;strokeColor=#3700CC;fillColor=#6a00ff;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1190" width="200" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
