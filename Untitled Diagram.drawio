@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-18T16:23:04.124Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="NcZvY92COW9nmcGrEnA2" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-18T16:34:36.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="qkY9cnHtV2UFCfA-ZX_S" version="13.7.3" type="github">
   <diagram id="d-2VzB2SfFw2CS1T4vUZ" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
         <mxCell id="RG3sBn3x0QnMlMXYGg9k-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RG3sBn3x0QnMlMXYGg9k-31" target="RG3sBn3x0QnMlMXYGg9k-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RG3sBn3x0QnMlMXYGg9k-31" value="calculate next year ballance&lt;br&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;ballance + (yc * roi *years)&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontColor=#ffffff;strokeColor=#3700CC;fillColor=#6a00ff;gradientColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="RG3sBn3x0QnMlMXYGg9k-31" value="calculate next year ballance&lt;br&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;(roi/100+1)*(balance+yc)&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontColor=#ffffff;strokeColor=#3700CC;fillColor=#6a00ff;gradientColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="260" y="940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RG3sBn3x0QnMlMXYGg9k-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RG3sBn3x0QnMlMXYGg9k-33" target="RG3sBn3x0QnMlMXYGg9k-35">
